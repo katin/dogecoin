@@ -61,7 +61,7 @@ Build requirements:
 	
 for Ubuntu 12.04 and later or Debian 7 and later, libboost-all-dev has to be installed:
 
-	sudo apt-get install libboost-all-dev libdb5.1-dev libdb5.1++-dev
+	sudo apt-get install libboost-all-dev libdb5.3-dev libdb5.3++-dev
 
 	Note that if you have Berkeley DB 4.8 packages installed (i.e. for other
 	wallet software), they are incompatible with the packages for 5.1. You
